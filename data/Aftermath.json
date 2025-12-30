@@ -1,1 +1,18 @@
-
+{
+    "id": 25610878,
+    "name": "Aftermath",
+    "author": "Exenity",
+    "creators": ["Exenity, Squizz, Hinds and more"],
+    "verifier": "Mzeley",
+    "verification": "https://www.youtube.com/watch?v=NiKR32gvSHw",
+    "percentToQualify": "82",
+    "password": "Oldd meg magad",
+    "records": [
+        {
+            "user": "SzocskeGD",
+            "link": "https://www.youtube.com/watch?v=X8Tqy9iD5Wo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
