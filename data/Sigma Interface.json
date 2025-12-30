@@ -1,1 +1,18 @@
-
+{
+    "id": 62551239,
+    "name": "Sigma Interface",
+    "author": "Platnuu",
+    "creators": ["Platnuu"],
+    "verifier": "SzocskeGD",
+    "verification": "https://www.youtube.com/watch?v=mECl2wC2Mns",
+    "percentToQualify": "72",
+    "password": "Oldd meg magad",
+    "records": [
+        {
+            "user": "Mzeley",
+            "link": "https://www.youtube.com/watch?v=Gt9X7mt8Gj0",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}
