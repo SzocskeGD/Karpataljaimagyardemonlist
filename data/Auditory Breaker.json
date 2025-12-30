@@ -1,1 +1,18 @@
-
+{
+    "id": 51791710,
+    "name": "Auditory Breaker",
+    "author": "LazerBlitz",
+    "creators": ["LazerBlitz, Manix648"],
+    "verifier": "SzocskeGD",
+    "verification": "https://www.youtube.com/watch?v=-rPlIPo5pL4",
+    "percentToQualify": "56",
+    "password": "Oldd meg magad",
+    "records": [
+        {
+            "user": "Mzeley",
+            "link": "https://www.youtube.com/watch?v=gQSNZJMOSkM&t=69s",
+            "percent": 100,
+            "hz": 180
+        },
+    ]
+}
