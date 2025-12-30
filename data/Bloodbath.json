@@ -1,1 +1,30 @@
-
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Michigun, Riot, Crack, Etzer, Giron and more"],
+    "verifier": "SzocskeGD",
+    "verification": "https://www.youtube.com/watch?v=PUeQH8qIedA&t=3s",
+    "percentToQualify": "70",
+    "password": "Oldd meg",
+    "records": [
+        {
+            "user": "Mzeley",
+            "link": "https://www.youtube.com/watch?v=l2jsZHczOjI",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "Hypenox",
+            "link": "https://www.youtube.com/watch?v=97tGuroqQG0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Boti",
+            "link": "https://www.youtube.com/watch?v=Xzb7apPvDos",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
