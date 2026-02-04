@@ -8,12 +8,13 @@
     "percentToQualify": 81,
     "password": "Oldd meg magad",
     "records": [
-    ]
 
-     {
+
+        {
             "user": "Boti",
             "link": "https://www.youtube.com/watch?v=Xzb7apPvDos",
             "percent": 100,
             "hz": 60
     }
+    ]
 }
