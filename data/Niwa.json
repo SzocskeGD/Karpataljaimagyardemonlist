@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Oldd meg magad",
     "records": [
+        {
+            "user": "Mzeley",
+            "link": "https://www.youtube.com/watch?v=UX2LT6CJ2i0",
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
