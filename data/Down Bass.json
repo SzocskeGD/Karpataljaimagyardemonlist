@@ -8,5 +8,11 @@
     "percentToQualify": 58,
     "password": "Oldd meg magad",
     "records": [
+        {
+            "user": "SzocskeGD",
+            "link": "https://youtu.be/E45Rs5RbzRc",
+            "percent": 100,
+            "hz": 240
+    }
     ]
 }
